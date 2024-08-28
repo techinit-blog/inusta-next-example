@@ -14,6 +14,7 @@
     "fix:prettier": "npm run lint:prettier -- --write"
   },
   "dependencies": {
+    "clsx": "^2.1.1",
     "next": "^15.0.0-rc.0",
     "react": "^19.0.0-rc-f65ac7bd-20240826",
     "react-dom": "^19.0.0-rc-f65ac7bd-20240826"
