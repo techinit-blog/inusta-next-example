@@ -19,13 +19,13 @@ export default function AuthLayout({
             <div className="space-x-8">
               <Link
                 href="/login"
-                className="inline-flex items-center border-indigo-400 px-1 pt-1 text-sm font-medium leading-5 text-gray-900 transition duration-150 ease-in-out focus:border-indigo-700 focus:outline-none"
+                className="inline-flex items-center px-1 pt-1 text-sm text-gray-900"
               >
                 ログイン
               </Link>
               <Link
                 href="/register"
-                className="inline-flex items-center border-indigo-400 px-1 pt-1 text-sm font-medium leading-5 text-gray-900 transition duration-150 ease-in-out focus:border-indigo-700 focus:outline-none"
+                className="inline-flex items-center px-1 pt-1 text-sm text-gray-900"
               >
                 会員登録
               </Link>
